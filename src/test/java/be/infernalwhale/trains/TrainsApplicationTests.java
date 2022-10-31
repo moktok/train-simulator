@@ -1,10 +1,10 @@
-package be.infernalwhale.springdemo;
+package be.infernalwhale.trains;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringdemoApplicationTests {
+class TrainsApplicationTests {
 
     @Test
     void contextLoads() {
